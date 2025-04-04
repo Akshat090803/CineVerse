@@ -64,7 +64,7 @@ Cineverse is a dynamic and responsive web application built with React.js, desig
 6.  **Start the development server:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 7.  **Open your browser and navigate to `http://localhost:3000`**
